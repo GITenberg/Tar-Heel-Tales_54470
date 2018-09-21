@@ -1,11 +1,16 @@
 _repo: Tar-Heel-Tales_54470
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54470-h/images/cover.jpg
 creator:
   author:
     agent_name: Bryant, H. E. C.
     gutenberg_agent_id: '47888'
     url: http://www.gutenberg.org/2009/agents/47888
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54470#Tar-Heel-Tales
 gutenberg_issued: '2017-04-01'
 gutenberg_type: Text
 identifiers:
